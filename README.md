@@ -1,3 +1,8 @@
+<!-- Animated Hacker Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Hacker GIF" width="500" />
+</div>
+
 <!-- Header / Profile Photo & Typing SVG -->
 <div align="center">
   <img src="exact_original_linkedin_photo.jpg" width="180" alt="Pankaj Kumar Yadav" />
@@ -41,6 +46,29 @@ As an **Ethical Hacker & Bug Bounty Hunter**, I specialize in identifying web ap
   <img src="https://img.shields.io/badge/SQLmap-1A2C37?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2F8B46?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Featured Projects & Tools
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>AutoRecon</b><br/>
+        <i>Automated Bug Bounty Reconnaissance Script</i><br/>
+        A fast Bash script that chains Subfinder, HTTPX, and Nuclei to automate initial recon and save hours of manual work.<br/>
+        <a href="https://github.com/Kingsoft0001/AutoRecon">View Repository</a>
+      </td>
+      <td width="50%" align="center">
+        <b>Bug Bounty Write-ups</b><br/>
+        <i>My Vulnerability Reports & PoCs</i><br/>
+        A dedicated repository where I document my findings, PoCs, and detailed reports of vulnerabilities discovered during Bug Hunts.<br/>
+        <a href="https://github.com/Kingsoft0001/bug-bounty-writeups">View Repository</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
