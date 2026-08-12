@@ -3,6 +3,8 @@
   <img src="exact_original_linkedin_photo.jpg" width="180" alt="Pankaj Kumar Yadav" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pankaj+Kumar+Yadav+👋;Ethical+Hacker;Bug+Bounty+Hunter;Security+Researcher" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Kingsoft0001&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 
 <p align="center">
@@ -43,13 +45,25 @@ As an **Ethical Hacker & Bug Bounty Hunter**, I specialize in identifying web ap
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingsoft0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pankaj's GitHub Stats" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingsoft0001&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingsoft0001&theme=tokyonight&hide_border=true&background=0D1117" alt="Pankaj's Streak" />
+
+  <!-- GitHub Activity Graph (Hacker Style) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsoft0001&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🐍 My Contributions Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kingsoft0001/Kingsoft0001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
