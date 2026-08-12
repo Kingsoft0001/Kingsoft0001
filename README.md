@@ -7,9 +7,9 @@ As an Ethical Hacker & Bug Bounty Hunter, I specialize in identifying web applic
 💬 Ask me about Web App Pentesting, OWASP Top 10, Reconnaissance Tactics, and Bug Bounty Strategies
 📫 Reach out to me: 
 LinkedIn
- (https://www.linkedin.com/in/pankaj-yadav-051708392/) | 
+ (Add your link) | 
 Email
- (pankajking67@gmail.com) | 
+ (Add your email) | 
 HackerOne/Bugcrowd
  (Add your profile link)
 🛠️ Arsenal & Skills
@@ -18,3 +18,4 @@ HackerOne/Bugcrowd
 Pankaj's GitHub Stats
 
 Pankaj's Streak
+"Hackers break systems for profit. I break them to make them secure."
