@@ -1,4 +1,3 @@
-![Uploading pankaj_pentesting_hacker.jpg…]()
 <div align="center">
 
 # 💀 `SYSTEM OVERRIDE // ROOT ACCESS GRANTED` 💀
