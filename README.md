@@ -2,55 +2,56 @@
 
 # 💀 `SYSTEM OVERRIDE // ROOT ACCESS GRANTED` 💀
 
-<!-- Moving Hacker with Black Hoodie & Cyber Mask -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Moving Cyber Hacker Animation" style="border-radius: 12px; box-shadow: 0 0 25px #00ff41;"/>
+<!-- Moving Hacker Typing & Terminal Animation -->
+<img src="https://raw.githubusercontent.com/krypton-byte/krypton-byte/main/hacker.gif" width="480" alt="Moving Cyber Hacker Animation" style="border-radius: 12px; box-shadow: 0 0 25px #00ff41;"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=180&section=header&text=PANKAJ%20KUMAR%20YADAV&fontSize=46&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Bug%20Hunter&descAlignY=62&descSize=16&fontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=180&section=header&text=PANKAJ%20KUMAR%20YADAV&fontSize=46&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Penetration%20Tester&descAlignY=62&descSize=16&fontColor=000000" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+Offensive+Payloads...;Searching+for+0-day+Vulnerabilities...;Penetration+Testing+in+Progress...;System+Armored.+Securing+Cyberspace...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+Penetration+Testing+Framework...;Running+Nmap+Network+Vulnerability+Scans...;Exploiting+Web+Vulnerabilities+in+Kali+Linux...;Security+Researcher+%7C+Securing+Cyberspace+24%2F7...)](https://git.io/typing-svg)
 
 ---
 
 </div>
 
-## 📟 `sys.info() // WHOAMI`
+## 📟 `sys.info() // PENETRATION TESTER PROFILE`
 
 ```bash
 root@kingsoft0001:~# whoami --verbose
-[+] Identity  : Pankaj Kumar Yadav (Kingsoft0001)
-[+] Role      : Ethical Hacker & Security Researcher
-[+] Focus     : Web App PenTesting | Network Security | Bug Bounty
-[+] Objective : Identifying logic flaws & hardening digital fortresses
-[+] Status    : 🟢 ACTIVE // Securing Networks & Hunting Vulnerabilities
+[+] Identity  : Pankaj Kumar Yadav (@Kingsoft0001)
+[+] Role      : Ethical Hacker & Penetration Tester
+[+] Focus     : Web Security | Network Exploitation | OSINT | Bug Bounty
+[+] OS/Setup  : Kali Linux / Multi-Monitor Security Operations Center
+[+] Status    : 🟢 ACTIVE // Hunting Vulnerabilities & Hardening Networks
 ```
 
 ---
 
-## ⚡ `active_payloads.load() // CYBER ARSENAL`
+## ⚡ `active_payloads.load() // PENTESTING ARSENAL`
 
 <div align="center">
 
-### 🛡️ **Offensive Security & PenTesting**
+### 🛡️ **Penetration Testing & Security Tools**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego_OSINT-111111?style=for-the-badge&logo=maltego&logoColor=00ff41)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 💻 **Languages & Scripting**
+### 💻 **Languages & Automation**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🌐 **Platforms & Security Labs**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🌐 **Platforms & CTF Labs**
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
