@@ -2,14 +2,19 @@
 
 # 💀 `SYSTEM OVERRIDE // ROOT ACCESS GRANTED` 💀
 
-<!-- Moving Hacker Typing & Terminal Animation -->
-<img src="https://raw.githubusercontent.com/krypton-byte/krypton-byte/main/hacker.gif" width="480" alt="Moving Cyber Hacker Animation" style="border-radius: 12px; box-shadow: 0 0 25px #00ff41;"/>
+<!-- Pankaj Kumar Yadav - Penetration Testing BattleStation -->
+<img src="https://raw.githubusercontent.com/Kingsoft0001/Kingsoft0001/main/pankaj_pentesting_hacker.jpg" alt="Pankaj Kumar Yadav - Penetration Testing BattleStation" width="100%" style="border-radius: 14px; border: 2px solid #00ff41; box-shadow: 0 0 35px rgba(0, 255, 65, 0.45);"/>
+
+<br/><br/>
+
+<!-- Active Moving Terminal Monitor Screen -->
+<img src="https://raw.githubusercontent.com/krypton-byte/krypton-byte/main/hacker.gif" width="460" alt="Active Monitor Stream" style="border-radius: 10px; border: 1px solid #00ff41;"/>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=180&section=header&text=PANKAJ%20KUMAR%20YADAV&fontSize=46&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Penetration%20Tester&descAlignY=62&descSize=16&fontColor=000000" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+Penetration+Testing+Framework...;Running+Nmap+Network+Vulnerability+Scans...;Exploiting+Web+Vulnerabilities+in+Kali+Linux...;Security+Researcher+%7C+Securing+Cyberspace+24%2F7...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=680&lines=Executing+Nmap+Network+Vulnerability+Scans...;Injecting+SQLi+%26+XSS+Payloads+in+Burp+Suite...;Harvesting+OSINT+Threat+Intelligence+via+Maltego...;System+Hardened.+0+Vulnerabilities+Unresolved...)](https://git.io/typing-svg)
 
 ---
 
@@ -19,11 +24,11 @@
 
 ```bash
 root@kingsoft0001:~# whoami --verbose
-[+] Identity  : Pankaj Kumar Yadav (@Kingsoft0001)
-[+] Role      : Ethical Hacker & Penetration Tester
+[+] Operator   : Pankaj Kumar Yadav (@Kingsoft0001)
+[+] Role       : Ethical Hacker & Penetration Tester
 [+] Focus     : Web Security | Network Exploitation | OSINT | Bug Bounty
-[+] OS/Setup  : Kali Linux / Multi-Monitor Security Operations Center
-[+] Status    : 🟢 ACTIVE // Hunting Vulnerabilities & Hardening Networks
+[+] Workstation: Kali Linux / Multi-Monitor Security Operations Center (Active)
+[+] Threat LvL : 🟢 SECURE // Continuous Reconnaissance & Perimeter Defense
 ```
 
 ---
